@@ -1,1 +1,1 @@
-1.http://localhost:8280/iZooService/IZOO/TEST/HELLO
+1.http://192.168.0.104:8080/iZooService/IZOO/SERVICE/CHECK_USER?userName=boo&password=boo
